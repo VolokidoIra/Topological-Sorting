@@ -1,0 +1,3 @@
+paths:
+  tasks: 'builds/tasks.yaml'
+  builds: 'builds/builds.yaml'
